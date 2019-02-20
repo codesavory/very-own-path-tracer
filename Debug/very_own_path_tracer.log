@@ -1,0 +1,3 @@
+﻿  very_own_path_tracer.cpp
+d:\geekie\computer_graphics\projects\light transport\path tracing\very_own_path_tracer\very_own_path_tracer\very_own_path_tracer.cpp(205): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  very_own_path_tracer.vcxproj -> D:\Geekie\Computer_Graphics\Projects\Light Transport\Path Tracing\very_own_path_tracer\Debug\very_own_path_tracer.exe
